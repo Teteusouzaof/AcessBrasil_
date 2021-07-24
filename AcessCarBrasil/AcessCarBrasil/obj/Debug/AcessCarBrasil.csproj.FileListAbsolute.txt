@@ -1,0 +1,11 @@
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\bin\Debug\AcessCarBrasil.exe.config
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\bin\Debug\AcessCarBrasil.exe
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\bin\Debug\AcessCarBrasil.pdb
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\obj\Debug\AcessCarBrasil.csprojAssemblyReference.cache
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\obj\Debug\AcessCarBrasil.frmaddcar.resources
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\obj\Debug\AcessCarBrasil.frmInicio.resources
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\obj\Debug\AcessCarBrasil.Properties.Resources.resources
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\obj\Debug\AcessCarBrasil.csproj.GenerateResource.cache
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\obj\Debug\AcessCarBrasil.exe
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\obj\Debug\AcessCarBrasil.pdb
+C:\Users\Positivo\source\repos\AcessCarBrasil\AcessCarBrasil\obj\Debug\AcessCarBrasil.frmMenu.resources
